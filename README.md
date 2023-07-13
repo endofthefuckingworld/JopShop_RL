@@ -1,5 +1,2 @@
 # JopShop_RL
-# OR-Library
-# PPO
-# Discrete event sumulation
-# Simpy
+## Apply PPO to OR-Library ft-06 problem, which get Makespan 58.
